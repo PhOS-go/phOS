@@ -6,7 +6,7 @@ description: >
   dia", "/abrir", "vamos trabalhar" ou no primeiro turno de uma sessão depois do /instalar.
 ---
 
-# /abrir — Abertura de sessão
+# /abrir: Abertura de sessão
 
 Curto e direto. O objetivo é carregar o contexto e devolver uma síntese de uma frase pra o
 usuário começar a trabalhar.
@@ -26,7 +26,7 @@ usuário começar a trabalhar.
 3. Se tudo estiver preenchido, devolver UMA mensagem curta neste formato:
 
 ```
-[Nome do projeto] — [o que faz em 5-8 palavras]
+[Nome do projeto], [o que faz em 5-8 palavras]
 Foco: [prioridade principal do foco.md, em uma frase]
 Tom: [resumo de 3-4 palavras da voz]
 
@@ -39,7 +39,7 @@ Pronto. O que vamos fazer hoje?
 
 - A resposta cabe em até 5 linhas no terminal.
 - Não fazer perguntas além de "o que vamos fazer?".
-- Se o `marca/guia-visual.md` ainda estiver na identidade-exemplo do phOS, não mencionar — isso
+- Se o `marca/guia-visual.md` ainda estiver na identidade-exemplo do phOS, não mencionar, isso
   só vira assunto quando uma skill visual for chamada.
 - Se o `foco.md` indicar algo com prazo próximo, pode incluir um aviso de uma linha (ex:
   "Lembrete: entrega de X vence sexta").

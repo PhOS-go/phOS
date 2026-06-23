@@ -1,7 +1,7 @@
 # Perfil
 
 > O cérebro do sistema. O Claude lê este arquivo antes de cada resposta.
-> Preenchido pelo `/instalar` — você pode editar a qualquer momento.
+> Preenchido pelo `/instalar`: você pode editar a qualquer momento.
 
 **Nome / projeto:**
 **O que é:**

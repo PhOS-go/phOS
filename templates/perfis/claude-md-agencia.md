@@ -1,6 +1,6 @@
-# [Nome da Agência] — phOS
+# [Nome da Agência]: phOS
 
-> Molde aplicado ao perfil **agência / consultoria** — equipe pequena entregando
+> Molde aplicado ao perfil **agência / consultoria**: equipe pequena entregando
 > pra vários clientes. O sistema padroniza processo e mantém a qualidade entre
 > entregas. O `/instalar` adapta este molde e acrescenta ao CLAUDE.md.
 
@@ -10,19 +10,19 @@
 cada cliente e mantém a régua de qualidade igual em toda entrega."]
 
 **Estrutura de pastas:**
-- `memoria/` — quem é a agência, como fala, no que está focada
-- `marca/` — a marca da agência (a de cada cliente fica na pasta dele)
-- `clientes/` — uma pasta por cliente, com CLAUDE.md próprio (via `/novo-projeto`)
-- `entregas/` — marketing e materiais da própria agência
-- `processos/` — SOPs e padrões de entrega da equipe
-- `dados/` — arquivos a analisar
-- `scripts/` — utilitários
-- `tarefas.md` — o que está em jogo agora
+- `memoria/`: quem é a agência, como fala, no que está focada
+- `marca/`: a marca da agência (a de cada cliente fica na pasta dele)
+- `clientes/`: uma pasta por cliente, com CLAUDE.md próprio (via `/novo-projeto`)
+- `entregas/`: marketing e materiais da própria agência
+- `processos/`: SOPs e padrões de entrega da equipe
+- `dados/`: arquivos a analisar
+- `scripts/`: utilitários
+- `tarefas.md`: o que está em jogo agora
 
 ## Quem somos
 
 Somos a [nome]. Entregamos [serviços] pra [tipo de cliente].
-[Posicionamento — o que nos diferencia de outras agências.]
+[Posicionamento, o que nos diferencia de outras agências.]
 
 ## A equipe
 

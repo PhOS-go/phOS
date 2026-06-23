@@ -6,20 +6,20 @@ description: >
   "/lancamento", "planejar um lançamento", "vou lançar X", "estrutura de lançamento", "campanha de venda".
 ---
 
-# /lancamento — Estrutura de lançamento
+# /lancamento: Estrutura de lançamento
 
-Skill orquestradora. Não faz tudo sozinha — desenha o plano e chama as outras skills do phOS pra
+Skill orquestradora. Não faz tudo sozinha, desenha o plano e chama as outras skills do phOS pra
 produzir cada peça (`/landing-page`, `/email-venda`, `/carrossel`, `/calendario-editorial`).
 
 ## Dependências
 
-- `memoria/perfil.md` — produto, público, oferta
-- `memoria/foco.md` — datas e prioridade
-- `memoria/voz.md` — tom de tudo que for escrito
+- `memoria/perfil.md`: produto, público, oferta
+- `memoria/foco.md`: datas e prioridade
+- `memoria/voz.md`: tom de tudo que for escrito
 
 ## Workflow
 
-### Passo 1 — Briefing do lançamento (entrevista)
+### Passo 1: Briefing do lançamento (entrevista)
 
 1. "O que está sendo lançado e qual o preço?"
 2. "Pra quem? (lista existente, tráfego frio, audiência orgânica)"
@@ -27,12 +27,12 @@ produzir cada peça (`/landing-page`, `/email-venda`, `/carrossel`, `/calendario
 4. "Qual o modelo: lançamento semente, perpétuo, evento ao vivo, ou simples (abre e fecha)?"
 5. "O que você já tem pronto (página, e-mails, audiência) e o que falta?"
 
-### Passo 2 — Desenhar a oferta
+### Passo 2: Desenhar a oferta
 
 Estruturar a oferta de forma clara: produto + bônus + garantia + preço + ancoragem. Validar a
-"promessa central" — a transformação que justifica o preço.
+"promessa central", a transformação que justifica o preço.
 
-### Passo 3 — Montar o mapa do lançamento
+### Passo 3: Montar o mapa do lançamento
 
 Entregar um plano com fases e datas:
 - **Pré-lançamento:** conteúdo de aquecimento (chamar `/calendario-editorial` e `/carrossel`)
@@ -42,12 +42,12 @@ Entregar um plano com fases e datas:
 
 Apresentar como cronograma (tabela data × peça × skill responsável × status).
 
-### Passo 4 — Produzir as peças
+### Passo 4: Produzir as peças
 
 Perguntar por onde começar e ir chamando as skills correspondentes pra produzir cada item.
 Salvar tudo numa pasta única do lançamento: `entregas/copy/lancamento-<nome>-<data>/`.
 
-### Passo 5 — Checklist final
+### Passo 5: Checklist final
 
 Antes da abertura, rodar um checklist: página testada, e-mails agendados, links certos, prova
 no lugar, oferta clara. Listar o que ainda falta.
@@ -56,5 +56,5 @@ no lugar, oferta clara. Listar o que ainda falta.
 
 - É orquestradora: reusar as skills do phOS em vez de reescrever copy/página do zero.
 - Tudo do lançamento vive numa pasta só, pra não espalhar.
-- Cronograma realista — melhor um lançamento simples bem executado que um complexo pela metade.
+- Cronograma realista, melhor um lançamento simples bem executado que um complexo pela metade.
 - Não fabricar escassez falsa. Urgência tem que ser real (data de fechamento de verdade).

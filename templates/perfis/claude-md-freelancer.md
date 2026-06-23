@@ -1,6 +1,6 @@
-# [Seu Nome / Estúdio] — phOS
+# [Seu Nome / Estúdio]: phOS
 
-> Molde aplicado ao perfil **freelancer** — você atende clientes e organiza o
+> Molde aplicado ao perfil **freelancer**: você atende clientes e organiza o
 > trabalho por projeto/cliente. O sistema gira em torno das entregas. O `/instalar`
 > adapta este molde com a sua realidade e acrescenta ao CLAUDE.md.
 
@@ -10,13 +10,13 @@
 produzo as entregas e mantenho meu próprio marketing rodando."]
 
 **Estrutura de pastas:**
-- `memoria/` — quem eu sou, como falo, no que estou focado
-- `marca/` — minha marca (a dos clientes fica na pasta de cada um)
-- `clientes/` — uma pasta por cliente, com CLAUDE.md próprio (via `/novo-projeto`)
-- `entregas/` — meu próprio conteúdo e materiais
-- `dados/` — arquivos a analisar
-- `scripts/` — utilitários
-- `tarefas.md` — o que está em jogo agora
+- `memoria/`: quem eu sou, como falo, no que estou focado
+- `marca/`: minha marca (a dos clientes fica na pasta de cada um)
+- `clientes/`: uma pasta por cliente, com CLAUDE.md próprio (via `/novo-projeto`)
+- `entregas/`: meu próprio conteúdo e materiais
+- `dados/`: arquivos a analisar
+- `scripts/`: utilitários
+- `tarefas.md`: o que está em jogo agora
 
 ## Quem sou
 

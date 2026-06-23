@@ -1,4 +1,4 @@
-# Identidade visual — exemplo "Vibrante"
+# Identidade visual: exemplo "Vibrante"
 
 > Exemplo de `marca/guia-visual.md` preenchido, pra você ver como fica. Estilo
 > energético, jovem, alto contraste. Copie a estrutura e troque pelos seus valores.

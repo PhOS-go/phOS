@@ -1,4 +1,4 @@
-# phOS — regras de operação
+# phOS: regras de operação
 
 Este arquivo é o coração do sistema. Ele define como o Claude opera dentro do
 phOS: como lê o contexto, aprende com correções, mantém a memória em dia e cria
@@ -12,11 +12,11 @@ página as regras específicas do seu projeto (a partir do molde de perfil escol
 ## 1. Carregar o contexto
 
 No início de toda conversa, ler os seguintes arquivos (quando existirem e
-estiverem preenchidos — não placeholder):
+estiverem preenchidos, não placeholder):
 
-1. `memoria/perfil.md` — quem é o usuário, o que faz, como funciona o projeto
-2. `memoria/voz.md` — tom de voz, estilo de escrita, o que evitar
-3. `memoria/foco.md` — fase atual, prioridades, prazos
+1. `memoria/perfil.md`: quem é o usuário, o que faz, como funciona o projeto
+2. `memoria/voz.md`: tom de voz, estilo de escrita, o que evitar
+3. `memoria/foco.md`: fase atual, prioridades, prazos
 
 Usar isso como base de qualquer resposta ou decisão. Ao sugerir prioridades,
 formatos ou caminhos, considerar sempre o foco atual descrito em `foco.md`.
@@ -84,7 +84,7 @@ Se sim, atualizar onde faz sentido:
 - **Pasta, regra de organização, skill criada** → `CLAUDE.md`
 - **Visual (cores, fontes, logo)** → `marca/guia-visual.md`
 
-Mostrar o que vai mudar antes de salvar. Não reformatar o arquivo inteiro — só
+Mostrar o que vai mudar antes de salvar. Não reformatar o arquivo inteiro, só
 adicionar ou editar a linha relevante.
 
 **Quando NÃO perguntar:**
@@ -109,7 +109,7 @@ Quando o usuário pedir uma skill nova:
 4. Se a skill precisar de arquivos de apoio (moldes, exemplos), criar dentro da
    pasta da skill.
 5. Garantir frontmatter com `name` e `description` (a `description` precisa dizer
-   *quando* a skill é invocada — sem isso ela nunca é encontrada). O `name` tem
+   *quando* a skill é invocada, sem isso ela nunca é encontrada). O `name` tem
    que ser igual ao nome da pasta.
 
 ---

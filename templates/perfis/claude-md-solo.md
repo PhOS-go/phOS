@@ -1,6 +1,6 @@
-# [Seu Nome] — phOS
+# [Seu Nome]: phOS
 
-> Molde aplicado ao perfil **criador solo** — uma pessoa, uma marca, audiência
+> Molde aplicado ao perfil **criador solo**: uma pessoa, uma marca, audiência
 > como ativo principal. O sistema gira em torno do que você produz e publica.
 > O `/instalar` adapta este molde com a sua realidade e acrescenta ao CLAUDE.md.
 
@@ -10,19 +10,19 @@
 aqui eu produzo, publico, mantenho relação com a audiência e fecho venda."]
 
 **Estrutura de pastas:**
-- `memoria/` — quem eu sou, como falo, no que estou focado
-- `marca/` — cores, fontes, logo, estilo
-- `entregas/` — conteúdo, copy, peças (saída das skills)
-- `produtos/` — meus produtos próprios (cursos, ebooks, mentorias)
-- `audiencia/` — listas, dados, contatos da base
-- `dados/` — arquivos a analisar
-- `scripts/` — utilitários
-- `tarefas.md` — o que está em jogo agora
+- `memoria/`: quem eu sou, como falo, no que estou focado
+- `marca/`: cores, fontes, logo, estilo
+- `entregas/`: conteúdo, copy, peças (saída das skills)
+- `produtos/`: meus produtos próprios (cursos, ebooks, mentorias)
+- `audiencia/`: listas, dados, contatos da base
+- `dados/`: arquivos a analisar
+- `scripts/`: utilitários
+- `tarefas.md`: o que está em jogo agora
 
 ## Quem sou
 
 Sou [nome]. [O que faço em uma frase].
-[O que diferencia o meu jeito — ponto de vista, marca pessoal].
+[O que diferencia o meu jeito, ponto de vista, marca pessoal].
 
 ## O que produzo
 

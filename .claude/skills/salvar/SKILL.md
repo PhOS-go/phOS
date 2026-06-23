@@ -6,7 +6,7 @@ description: >
   "fazer backup" ou pedir pra guardar o trabalho.
 ---
 
-# /salvar — Salvar no GitHub
+# /salvar: Salvar no GitHub
 
 Skill de uma função só: garantir que o trabalho do usuário está no GitHub. Tem que ser fácil pra
 quem nunca usou git.
@@ -22,8 +22,8 @@ Detectar com `git rev-parse --is-inside-work-tree`. Se falhar:
 
 2. Perguntar:
    > "Primeiro backup. Você já tem um repositório criado no GitHub pra esse projeto?
-   > 1. Sim — me passa a URL (ex: https://github.com/usuario/nome.git)
-   > 2. Não — me dá um nome que eu crio agora (ex: meu-projeto)"
+   > 1. Sim, me passa a URL (ex: https://github.com/usuario/nome.git)
+   > 2. Não, me dá um nome que eu crio agora (ex: meu-projeto)"
 
 3. **Opção 1:** `git init` → `git add .` → `git commit -m "Setup inicial do phOS"` →
    `git branch -M main` → `git remote add origin <URL>` → `git push -u origin main`.

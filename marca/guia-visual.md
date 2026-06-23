@@ -3,7 +3,7 @@
 > Como a marca aparece em tudo que o phOS gera. As skills de carrossel, peça e
 > landing page leem este arquivo antes de criar qualquer visual.
 >
-> **Isto aqui é a identidade do próprio phOS** — serve como exemplo funcional.
+> **Isto aqui é a identidade do próprio phOS**: serve como exemplo funcional.
 > Quando você rodar o `/instalar`, ela é substituída pela sua marca. Edite à
 > vontade quando a sua marca evoluir.
 
@@ -11,8 +11,8 @@
 
 ## Cores
 
-- **Fundo principal:** `#0B0E14` (carvão azulado — clima de terminal ligado)
-- **Cor de destaque / CTA:** `#5EEAD4` (turquesa-menta — "sistema online")
+- **Fundo principal:** `#0B0E14` (carvão azulado, clima de terminal ligado)
+- **Cor de destaque / CTA:** `#5EEAD4` (turquesa-menta, "sistema online")
 - **Texto principal:** `#E6EDF3` (quase branco, alto contraste)
 - **Fundo alternativo / cards:** `#121826`
 - **Cor de apoio:** `#8B95A7` (cinza-azulado pra textos secundários)
@@ -29,7 +29,7 @@
 
 Minimalista e escuro, com clima de terminal sofisticado. Muito respiro, contraste
 alto, um único destaque de cor (a turquesa) usado com parcimônia. Nada de poluição
-visual, nada de stock genérico. A turquesa é o "sinal de vida" do sistema — aparece
+visual, nada de stock genérico. A turquesa é o "sinal de vida" do sistema, aparece
 em CTAs, números e detalhes, nunca em blocos inteiros.
 
 ## Elementos-chave
@@ -50,7 +50,7 @@ em CTAs, números e detalhes, nunca em blocos inteiros.
 
 ## Logo
 
-- **Arquivo:** `marca/logo.png` (ou `.svg`) — *(coloque o seu aqui)*
+- **Arquivo:** `marca/logo.png` (ou `.svg`), *(coloque o seu aqui)*
 - **Versão pra fundo claro:** `marca/logo-escuro.png` *(se tiver)*
 - **Onde usar:** slide final do carrossel (CTA), header de propostas, capa de
   apresentações

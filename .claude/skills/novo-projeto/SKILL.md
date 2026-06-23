@@ -6,35 +6,35 @@ description: >
   "novo cliente", "/novo-projeto", "começar projeto pra X" ou pedir pra estruturar um trabalho novo.
 ---
 
-# /novo-projeto — Pasta de projeto com contexto dedicado
+# /novo-projeto: Pasta de projeto com contexto dedicado
 
 Quando o usuário começa um trabalho novo (cliente, iniciativa, produto), cria uma pasta com
 `CLAUDE.md` próprio que herda o contexto da raiz e adiciona o que é específico do projeto.
 
 ## Workflow
 
-### Passo 1 — Entrevista (4 perguntas)
+### Passo 1: Entrevista (4 perguntas)
 
 1. "Qual o nome do projeto ou cliente?"
 2. "É um cliente novo, projeto interno ou iniciativa pessoal?"
 3. "Qual o objetivo principal? (uma frase)"
-4. "Que tipo de entrega vai ter? (ex: conteúdo, landing, lançamento, automação — pode ser mais de uma)"
+4. "Que tipo de entrega vai ter? (ex: conteúdo, landing, lançamento, automação, pode ser mais de uma)"
 
-### Passo 2 — Decidir o local
+### Passo 2: Decidir o local
 
 Baseado na resposta 2 (conferir a convenção no `CLAUDE.md` da raiz, que varia por perfil):
 - **Cliente novo:** `clientes/<Nome>/`
 - **Projeto interno:** `projetos/<nome>/` (criar `projetos/` se não existir)
 - **Iniciativa pessoal:** perguntar onde o usuário prefere
 
-### Passo 3 — Estrutura
+### Passo 3: Estrutura
 
 Criar a pasta com:
 - `CLAUDE.md` do projeto (herdado + específico)
 - `briefing.md` (com o que foi coletado)
 - Subpastas conforme as entregas mencionadas (ex: mencionou "conteúdo e landing" → `conteudo/` e `landing/`)
 
-### Passo 4 — CLAUDE.md do projeto
+### Passo 4: CLAUDE.md do projeto
 
 ```markdown
 # [Nome do projeto]
@@ -60,10 +60,10 @@ Este projeto herda tom de voz, marca e contexto definidos em `memoria/` e `marca
 Não duplicar essas informações aqui.
 
 ## Específico deste projeto
-[Vazio — preencher com regras que valem só aqui, conforme descobrir]
+[Vazio, preencher com regras que valem só aqui, conforme descobrir]
 ```
 
-### Passo 5 — Resumo
+### Passo 5: Resumo
 
 ```
 Pasta criada: [caminho]
@@ -71,7 +71,7 @@ Pasta criada: [caminho]
 ✓ briefing.md
 ✓ Subpastas: [lista]
 
-Quando for trabalhar nele, abra o terminal já dentro da pasta — assim eu carrego o CLAUDE.md
+Quando for trabalhar nele, abra o terminal já dentro da pasta, assim eu carrego o CLAUDE.md
 específico junto com o da raiz.
 ```
 

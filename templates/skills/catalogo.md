@@ -23,27 +23,27 @@ Os comandos de fábrica vivem em `.claude/skills/`:
 ## Nativas do Claude Code (já vêm prontas)
 
 ### Frontend Design
-**O que faz:** cria interfaces web com design de alta qualidade — HTML/CSS/React que foge da
+**O que faz:** cria interfaces web com design de alta qualidade, HTML/CSS/React que foge da
 estética genérica de IA.
 **Bom pra:** landing pages, dashboards, componentes, páginas de produto.
 **Usada por:** `/landing-page`, `/carrossel`, `/peca-visual`.
 
 ### Canvas Design
-**O que faz:** cria arte visual em PNG/PDF aplicando princípios de design — pôsteres, capas, peças.
+**O que faz:** cria arte visual em PNG/PDF aplicando princípios de design, pôsteres, capas, peças.
 **Bom pra:** capas de e-book, banners, thumbnails, peças gráficas.
 **Usada por:** `/peca-visual`.
 
 ### PDF / DOCX / PPTX / XLSX
-**O que faz:** manipula documentos — extrai/cria PDF, escreve Word, monta apresentações e planilhas.
+**O que faz:** manipula documentos, extrai/cria PDF, escreve Word, monta apresentações e planilhas.
 **Bom pra:** propostas, contratos, relatórios formais, decks, planilhas.
 **Usada por:** `/analisar-dados`, `/relatorio`.
 
 ### Webapp Testing
-**O que faz:** testa aplicações web locais com Playwright — screenshots, verificação, logs.
+**O que faz:** testa aplicações web locais com Playwright, screenshots, verificação, logs.
 **Bom pra:** testar uma landing antes de publicar, conferir responsividade.
 
 ### Skill Creator
-**O que faz:** guia pra criar skills do zero — estrutura, triggers, teste.
+**O que faz:** guia pra criar skills do zero, estrutura, triggers, teste.
 **Bom pra:** quando `/mapear-rotinas` não cobre algo mais complexo.
 
 ---

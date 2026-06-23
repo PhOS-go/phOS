@@ -54,7 +54,7 @@ Na janela do VS Code: terminal integrado → `claude` → `/instalar`.
 
 > Quando o `/instalar` terminar, renomeia a pasta `phOS/` pro nome do seu projeto
 > (fecha o VS Code, renomeia no Explorer/Finder, abre de novo). A pasta deixa de
-> ser "phOS" — ela é o seu projeto agora.
+> ser "phOS", ela é o seu projeto agora.
 
 O `/instalar` roda **uma vez só**. Te entrevista, monta a memória e configura o
 sistema pelo seu perfil. Depois disso, é só usar.
@@ -64,10 +64,10 @@ sistema pelo seu perfil. Depois disso, é só usar.
 ## O mapa do sistema
 
 ```
-memoria/    o cérebro — quem você é, como fala, no que está focado
-marca/      o rosto — cores, fontes, logo (toda peça visual respeita)
-entregas/   o resultado — conteúdo, copy, relatórios que as skills geram
-dados/      o que entra — CSV, PDF, planilhas pra analisar
+memoria/    o cérebro, quem você é, como fala, no que está focado
+marca/      o rosto, cores, fontes, logo (toda peça visual respeita)
+entregas/   o resultado, conteúdo, copy, relatórios que as skills geram
+dados/      o que entra, CSV, PDF, planilhas pra analisar
 scripts/    utilitários do dia a dia
 templates/  moldes de perfil, catálogo de skills e exemplos de marca
 tarefas.md  o que está em jogo agora
@@ -77,7 +77,7 @@ tarefas.md  o que está em jogo agora
 
 ## Os comandos
 
-**Núcleo — operar o dia a dia**
+**Núcleo, operar o dia a dia**
 `/abrir` carrega o contexto antes de cada sessão · `/salvar` faz commit + push no
 GitHub · `/atualizar` varre o projeto e atualiza a memória · `/novo-projeto` cria
 pasta isolada pra cada cliente ou iniciativa · `/mapear-rotinas` descobre o que
@@ -106,7 +106,7 @@ cria capa, banner ou story na sua identidade.
 
 ## Como o phOS pensa
 
-`memoria/` é o cérebro. Tudo que importa do seu projeto mora aqui — quem você é,
+`memoria/` é o cérebro. Tudo que importa do seu projeto mora aqui, quem você é,
 como fala, o que está em foco essa semana. O Claude lê antes de cada resposta.
 Quanto melhor a memória, melhor o sistema.
 
@@ -117,7 +117,7 @@ respeita isso.
 no GitHub, fica tudo seu.
 
 E o sistema **aprende**: quando você corrige algo ou define uma preferência, ele
-pergunta se quer salvar — e na próxima já vem certo.
+pergunta se quer salvar, e na próxima já vem certo.
 
 ---
 

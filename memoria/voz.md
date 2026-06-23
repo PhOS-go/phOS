@@ -1,7 +1,7 @@
 # Voz
 
 > Como o Claude escreve no seu nome. Tom, estilo, vícios a evitar.
-> Preenchido pelo `/instalar` — edite sempre que quiser recalibrar.
+> Preenchido pelo `/instalar`: edite sempre que quiser recalibrar.
 
 ## Tom de voz
 

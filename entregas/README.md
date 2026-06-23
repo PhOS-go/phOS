@@ -1,7 +1,6 @@
 # entregas/
 
-O que o sistema produz fica aqui: carrosséis, copy, relatórios, peças, e-mails —
-tudo versionado no GitHub quando você roda `/salvar`.
+O que o sistema produz fica aqui: carrosséis, copy, relatórios, peças, e-mails, tudo versionado no GitHub quando você roda `/salvar`.
 
 Organização sugerida (as skills seguem isso automaticamente):
 
@@ -13,4 +12,4 @@ entregas/
 └── pecas/         capas, banners, stories
 ```
 
-Cada saída nasce com nome e data claros — ex: `carrossel-tema-2026-06-23/`.
+Cada saída nasce com nome e data claros, ex: `carrossel-tema-2026-06-23/`.

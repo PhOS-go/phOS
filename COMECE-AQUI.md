@@ -19,7 +19,7 @@ E rode:
 ```
 
 Ele vai te fazer algumas perguntas sobre você, seu projeto, seu jeito de falar e
-sua marca. Responde com sinceridade — quanto mais real, melhor o sistema fica.
+sua marca. Responde com sinceridade, quanto mais real, melhor o sistema fica.
 Leva 5 a 7 minutos.
 
 ## 2. Renomear a pasta
@@ -31,7 +31,7 @@ do seu projeto:
 2. Renomeie a pasta no Explorer (Windows) ou Finder (Mac)
 3. Abra o VS Code de novo na pasta renomeada
 
-A pasta deixa de se chamar "phOS" — ela é o seu projeto agora.
+A pasta deixa de se chamar "phOS", ela é o seu projeto agora.
 
 ## 3. Abrir cada sessão
 
@@ -47,10 +47,10 @@ Ele carrega tudo que vocês combinaram e te dá um resumo de uma frase pra come�
 
 Chame a skill que cabe na tarefa (digite `/` pra ver a lista). Exemplos:
 
-- `/carrossel` — um carrossel pro Instagram
-- `/landing-page` — copy de página de vendas
-- `/analisar-dados` — resumo de uma planilha
-- `/lancamento` — estrutura de um lançamento
+- `/carrossel`: um carrossel pro Instagram
+- `/landing-page`: copy de página de vendas
+- `/analisar-dados`: resumo de uma planilha
+- `/lancamento`: estrutura de um lançamento
 
 Ao terminar, guarde tudo no GitHub:
 
@@ -62,7 +62,7 @@ Ao terminar, guarde tudo no GitHub:
 
 ## Dicas
 
-- **Corrigiu algo?** O phOS pergunta se quer guardar a correção. Diga sim — na
+- **Corrigiu algo?** O phOS pergunta se quer guardar a correção. Diga sim, na
   próxima já vem certo.
 - **Repete uma tarefa toda semana?** Rode `/mapear-rotinas` e ele transforma em
   comando próprio.
