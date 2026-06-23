@@ -36,7 +36,7 @@ Dois caminhos. Escolhe o que combina contigo.
 Abre o Claude Code em qualquer pasta e cola:
 
 ```
-Clona o https://github.com/SEU-USUARIO/phOS.git na pasta atual,
+Clona o https://github.com/PhOS-go/phOS.git na pasta atual,
 entra nela e roda o /instalar.
 ```
 
@@ -45,7 +45,7 @@ Ele clona, entra na pasta nova e começa a entrevista de setup. Você só respon
 ### Pelo terminal (mais previsível)
 
 ```
-git clone https://github.com/SEU-USUARIO/phOS.git
+git clone https://github.com/PhOS-go/phOS.git
 cd phOS
 code .
 ```
