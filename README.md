@@ -4,7 +4,7 @@
 
 Você acabou de clonar o phOS. Em poucos minutos ele vai conhecer o seu projeto:
 quem você é, como você fala, no que você está focado agora. A partir daí, toda
-resposta sai com a sua cara — e um punhado de comandos prontos faz conteúdo,
+resposta sai com a sua cara e um punhado de comandos prontos faz conteúdo,
 copy, lançamento, análise e organização rodarem com você no comando.
 
 Não é mais uma ferramenta pra você abrir. É o sistema onde o seu trabalho roda.
@@ -18,8 +18,8 @@ esquece. Toda conversa começa do zero. Todo dia você reexplica quem você é, 
 faz, como gosta das coisas. O contexto vive espalhado em mil abas e na sua cabeça.
 
 O phOS inverte isso. Ele dá ao Claude uma **memória que aprende com você** e
-**comandos que executam do seu jeito**. Você corrige uma vez — ele lembra pra
-sempre. Você repete uma tarefa três vezes — ele vira um comando. Quanto mais você
+**comandos que executam do seu jeito**. Você corrige uma vez ele lembra pra
+sempre. Você repete uma tarefa três vezes ele vira um comando. Quanto mais você
 usa, mais o sistema fica do seu tamanho.
 
 O resultado não é "fazer mais rápido". É **fazer sozinho o que antes exigia um
