@@ -23,7 +23,7 @@ sempre. Você repete uma tarefa três vezes ele vira um comando. Quanto mais voc
 usa, mais o sistema fica do seu tamanho.
 
 O resultado não é "fazer mais rápido". É **fazer sozinho o que antes exigia um
-time** — com um sistema que não te substitui, vira parte de como você trabalha.
+time** com um sistema que não te substitui, vira parte de como você trabalha.
 
 ---
 
