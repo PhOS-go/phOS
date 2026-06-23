@@ -46,15 +46,26 @@ respondem nessa língua.
 
 ## Fase 1: Perfil
 
-Perguntar qual perfil mais combina:
+Perguntar qual perfil mais combina. As descrições importam: a confusão mais comum é entre
+"Criador solo" e "Freelancer", então deixe a diferença explícita.
 
-1. **Criador solo**: uma pessoa, marca pessoal + negócio, audiência como ativo
-2. **Freelancer**: atende clientes, organiza por projeto/cliente
-3. **Agência / consultoria**: equipe pequena entregando pra vários clientes
-4. **Empresa**: empresa estabelecida com setores (marketing, comercial, etc.)
+1. **Criador solo**: você é uma pessoa só e o ativo principal é a SUA marca/audiência. Produz e
+   publica pra você mesmo (conteúdo, produtos próprios). Não trabalha por encomenda pra clientes.
+2. **Freelancer**: você é uma pessoa só, mas atende CLIENTES (trabalho por projeto/encomenda). Se
+   você "faz X pra clientes", é aqui, não em Criador solo.
+3. **Agência / consultoria**: equipe pequena entregando pra vários clientes.
+4. **Empresa**: empresa estabelecida com setores (marketing, comercial, etc.).
+
+Regra prática pra desempatar: trabalha PRA clientes? Freelancer (ou Agência, se tiver equipe).
+Trabalha só pra própria marca? Criador solo.
 
 A resposta define qual molde de `CLAUDE.md` aplicar (ver `templates/perfis/`). Se o usuário tem
 um projeto pessoal não-comercial, usar o molde "solo" e adaptar.
+
+**Conferência de perfil:** se a entrevista (perguntas 2 e 3) revelar um trabalho que não bate com
+o perfil escolhido (ex: escolheu "Criador solo" mas descreve atender clientes), apontar
+gentilmente, explicar a diferença prática e sugerir o perfil que encaixa melhor ANTES de
+preencher os arquivos. Confirmar com o usuário e seguir com o perfil corrigido.
 
 ## Fase 2: Entrevista
 
