@@ -15,6 +15,7 @@ Os comandos de fábrica vivem em `.claude/skills/`:
 **Núcleo:** `/instalar` · `/abrir` · `/salvar` · `/atualizar` · `/novo-projeto` · `/mapear-rotinas`
 **Conteúdo & social:** `/carrossel` · `/calendario-editorial` · `/roteiro`
 **Copy, vendas & lançamento:** `/landing-page` · `/email-venda` · `/lancamento`
+**SEO & tráfego pago:** `/seo` · `/anuncio-google`
 **Dados, relatórios & visual:** `/analisar-dados` · `/relatorio` · `/peca-visual`
 
 ---

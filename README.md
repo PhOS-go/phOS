@@ -92,6 +92,11 @@ planeja a linha editorial · `/roteiro` transforma um tema em roteiro de vídeo/
 rascunha e-mails (ou sequências) de venda · `/lancamento` desenha o lançamento
 inteiro: oferta, página, sequência e cronograma.
 
+**SEO & tráfego pago**
+`/seo` roda o fluxo completo de SEO (palavras-chave, on-page, conteúdo, técnico,
+local e busca por IA) · `/anuncio-google` monta a campanha inteira no Google Ads
+em CSV pronto pra importar no Google Ads Editor.
+
 **Dados, relatórios & visual**
 `/analisar-dados` lê CSV/XLSX/PDF e devolve resumo executivo · `/relatorio` lê
 seus números e entrega relatório com alertas e recomendações · `/peca-visual`
